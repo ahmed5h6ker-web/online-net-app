@@ -1,0 +1,10 @@
+Implement user authentication and core app navigation
+
+Adds authentication flow (login, register), tab-based navigation, and screens for network browsing, transactions, and user profiles. Also includes initial wallet functionality and app configuration updates.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: dcca3292-4930-4fe2-a16c-1308976b9670
+Replit-Commit-Checkpoint-Type: full_checkpoint
+Replit-Commit-Event-Id: 422cda5d-a4a7-45fb-addc-4c1935aabb0c
+Replit-Commit-Screenshot-Url: https://storage.googleapis.com/screenshot-production-us-central1/f2d3a270-32cb-4b99-9e15-bd3b2a8baf04/dcca3292-4930-4fe2-a16c-1308976b9670/COcWO6B
+Replit-Helium-Checkpoint-Created: true
